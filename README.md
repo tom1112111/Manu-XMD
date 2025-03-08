@@ -189,7 +189,7 @@ jobs:
 - **Admin restricted usage** (Only group admins can use certain commands)
 - **Games** like Tic-Tac-Toe for interactive group engagement
 - **Text-to-Speech** with `.tts`
-- **Sticker creation** with `.sticker`
+- **Sticker creation** with `.sticker` 
 - **Anti-link detection** for group safety
 - **Warn and manage group members** with admin control
 - **And More** Available 200+ Commands
